@@ -1,5 +1,7 @@
 # awesome-deep-trading
-List of awesome resources for machine learning-based algorithmic trading
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+List of code, papers, and resources for machine learning applied to algorithmic trading.
 
 # Papers
 
