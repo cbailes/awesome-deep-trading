@@ -13,6 +13,7 @@ List of code, papers, and resources for machine learning applied to algorithmic 
 * [Application of Deep Learning to Algorithmic Trading - Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5241098.pdf) (2017)
 
 # Repositories
+* [Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading) - Experimental time series forecasting.
 
 ## CNNs
 * [rosdyana/CNN-Financial-Data](https://github.com/rosdyana/CNN-Financial-Data) - Deep Trading using Convolutional Neural Network
