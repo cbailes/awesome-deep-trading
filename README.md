@@ -7,7 +7,7 @@ List of code, papers, and resources for machine learning applied to algorithmic 
 
 * [Algorithmic Trading Using Deep Neural Networks on High Frequency Data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) - Andrés Arévalo, Jaime Niño, German Hernandez, Javier Sandoval, Diego León, Arbey Aragón (2017)
 * [Deep Neural Networks in High Frequency Trading](https://arxiv.org/abs/1809.01506) - Prakhar Ganesh, Puneet Rakheja (2018)
-*[Algorithmic Trading and Machine Learning Based on GPU](http://ceur-ws.org/Vol-2147/p09.pdf) - Mantas Vaitonis, Saulius Masteika, Konstantinas Korovkinas
+* [Algorithmic Trading and Machine Learning Based on GPU](http://ceur-ws.org/Vol-2147/p09.pdf) - Mantas Vaitonis, Saulius Masteika, Konstantinas Korovkinas
 
 ## Convolutional Neural Networks (CNNs)
 * [A deep learning based stock trading model with 2-D CNN trend detection](https://www.researchgate.net/publication/323131323_A_deep_learning_based_stock_trading_model_with_2-D_CNN_trend_detection) (2017)
