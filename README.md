@@ -7,6 +7,8 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 
 * [Algorithmic Trading Using Deep Neural Networks on High Frequency Data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) - Andrés Arévalo, Jaime Niño, German Hernandez, Javier Sandoval, Diego León, Arbey Aragón (2017)
 * [Deep Neural Networks in High Frequency Trading](https://arxiv.org/abs/1809.01506) - Prakhar Ganesh, Puneet Rakheja (2018)
+* [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1807.02787) - Chien Yi Huang (2018)
+* [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522) - Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid (2018)
 * [Algorithmic Trading and Machine Learning Based on GPU](http://ceur-ws.org/Vol-2147/p09.pdf) - Mantas Vaitonis, Saulius Masteika, Konstantinas Korovkinas
 
 ## Convolutional Neural Networks (CNNs)
