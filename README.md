@@ -1,7 +1,7 @@
 # awesome-deep-trading
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-List of code, papers, and resources for AI/machine learning/neural networks applied to algorithmic trading.
+List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
 # Papers
 
