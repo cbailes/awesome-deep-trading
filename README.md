@@ -5,6 +5,8 @@ List of code, papers, and resources for machine learning applied to algorithmic 
 
 # Papers
 
+* [Deep Neural Networks in High Frequency Trading](https://arxiv.org/abs/1809.01506) - Prakhar Ganesh, Puneet Rakheja (2018)
+
 ## Convolutional Neural Networks (CNNs)
 * [A deep learning based stock trading model with 2-D CNN trend detection](https://www.researchgate.net/publication/323131323_A_deep_learning_based_stock_trading_model_with_2-D_CNN_trend_detection) (2017)
 * [Algorithmic Financial Trading with Deep Convolutional Neural Networks: Time Series to Image Conversion Approach](https://www.researchgate.net/publication/324802031_Algorithmic_Financial_Trading_with_Deep_Convolutional_Neural_Networks_Time_Series_to_Image_Conversion_Approach) (2018)
