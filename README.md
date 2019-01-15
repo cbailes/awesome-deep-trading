@@ -5,7 +5,9 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 
 # Papers
 
+* [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059) - Zhengyao Jiang, Dixing Xu, Jinjun Liang (2017)
 * [Algorithmic Trading Using Deep Neural Networks on High Frequency Data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) - Andrés Arévalo, Jaime Niño, German Hernandez, Javier Sandoval, Diego León, Arbey Aragón (2017)
+* [Deep Hedging](https://arxiv.org/abs/1802.03042) - Hans Bühler, Lukas Gonon, Josef Teichmann, Ben Wood (2018)
 * [Deep Neural Networks in High Frequency Trading](https://arxiv.org/abs/1809.01506) - Prakhar Ganesh, Puneet Rakheja (2018)
 * [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1807.02787) - Chien Yi Huang (2018)
 * [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522) - Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid (2018)
