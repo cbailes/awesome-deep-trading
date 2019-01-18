@@ -17,15 +17,15 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 
 # Papers
 
-* [Classification-based Financial Markets Prediction using Deep Neural Networks](https://arxiv.org/abs/1603.08604) - Matthew Dixon, Diego Klabjan, Jin Hoon Bang (2016)
-* [Deep Learning for Limit Order Books](https://arxiv.org/abs/1601.01987) - Justin Sirignano (2016)
-* [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059) - Zhengyao Jiang, Dixing Xu, Jinjun Liang (2017)
+* [Classification-based Financial Markets Prediction using Deep Neural Networks](https://arxiv.org/pdf/1603.08604) - Matthew Dixon, Diego Klabjan, Jin Hoon Bang (2016)
+* [Deep Learning for Limit Order Books](https://arxiv.org/pdf/1601.01987) - Justin Sirignano (2016)
+* [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059) - Zhengyao Jiang, Dixing Xu, Jinjun Liang (2017)
 * [Agent Inspired Trading Using Recurrent Reinforcement Learning and LSTM Neural Networks](https://arxiv.org/pdf/1707.07338.pdf) - David W. Lu (2017)
 * [Algorithmic Trading Using Deep Neural Networks on High Frequency Data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) - Andrés Arévalo, Jaime Niño, German Hernandez, Javier Sandoval, Diego León, Arbey Aragón (2017)
-* [Deep Hedging](https://arxiv.org/abs/1802.03042) - Hans Bühler, Lukas Gonon, Josef Teichmann, Ben Wood (2018)
-* [Deep Neural Networks in High Frequency Trading](https://arxiv.org/abs/1809.01506) - Prakhar Ganesh, Puneet Rakheja (2018)
-* [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1807.02787) - Chien Yi Huang (2018)
-* [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522) - Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid (2018)
+* [Deep Hedging](https://arxiv.org/pdf/1802.03042) - Hans Bühler, Lukas Gonon, Josef Teichmann, Ben Wood (2018)
+* [Deep Neural Networks in High Frequency Trading](https://arxiv.org/pdf/1809.01506) - Prakhar Ganesh, Puneet Rakheja (2018)
+* [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1807.02787) - Chien Yi Huang (2018)
+* [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/pdf/1811.07522) - Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid (2018)
 * [Algorithmic Trading and Machine Learning Based on GPU](http://ceur-ws.org/Vol-2147/p09.pdf) - Mantas Vaitonis, Saulius Masteika, Konstantinas Korovkinas
 
 ## Convolutional Neural Networks (CNNs)
@@ -36,7 +36,7 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 * [Application of Deep Learning to Algorithmic Trading - Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5241098.pdf) (2017)
 
 ## Social Processing
-* [Improving Decision Analytics with Deep Learning: The Case of Financial Disclosures](https://arxiv.org/abs/1508.01993) - Stefan Feuerriegel, Ralph Fehrer (2015)
+* [Improving Decision Analytics with Deep Learning: The Case of Financial Disclosures](https://arxiv.org/pdf/1508.01993) - Stefan Feuerriegel, Ralph Fehrer (2015)
 * [Bank distress in the news: Describing events through deep learning](https://arxiv.org/pdf/1603.05670.pdf) - Samuel Rönnqvist, Peter Sarlin (2016)
 
 # Repositories
