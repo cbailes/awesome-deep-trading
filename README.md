@@ -7,6 +7,7 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 - [Papers](#papers)
   * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks--cnns-)
   * [Long Short-Term Memory (LSTMs)](#long-short-term-memory--lstms-)
+  * [Social Processing](#social-processing)
 - [Repositories](#repositories)
   * [Cryptocurrency](#cryptocurrency)
 - [Resources](#resources)
@@ -33,6 +34,10 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 
 ## Long Short-Term Memory (LSTMs)
 * [Application of Deep Learning to Algorithmic Trading - Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5241098.pdf) (2017)
+
+## Social Processing
+* [Improving Decision Analytics with Deep Learning: The Case of Financial Disclosures](https://arxiv.org/abs/1508.01993) - Stefan Feuerriegel, Ralph Fehrer (2015)
+* [Bank distress in the news: Describing events through deep learning](https://arxiv.org/pdf/1603.05670.pdf) - Samuel Rönnqvist, Peter Sarlin (2016)
 
 # Repositories
 * [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo
