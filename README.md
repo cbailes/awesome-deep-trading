@@ -4,7 +4,6 @@
 List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
 # Contents
-- [awesome-deep-trading](#awesome-deep-trading)
 - [Papers](#papers)
   * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks--cnns-)
   * [Long Short-Term Memory (LSTMs)](#long-short-term-memory--lstms-)
@@ -17,6 +16,7 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 
 # Papers
 
+* [Classification-based Financial Markets Prediction using Deep Neural Networks](https://arxiv.org/abs/1603.08604) - Matthew Dixon, Diego Klabjan, Jin Hoon Bang (2016)
 * [Deep Learning for Limit Order Books](https://arxiv.org/abs/1601.01987) - Justin Sirignano (2016)
 * [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059) - Zhengyao Jiang, Dixing Xu, Jinjun Liang (2017)
 * [Agent Inspired Trading Using Recurrent Reinforcement Learning and LSTM Neural Networks](https://arxiv.org/pdf/1707.07338.pdf) - David W. Lu (2017)
