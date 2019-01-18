@@ -3,6 +3,18 @@
 
 List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
+# Contents
+- [awesome-deep-trading](#awesome-deep-trading)
+- [Papers](#papers)
+  * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks--cnns-)
+  * [Long Short-Term Memory (LSTMs)](#long-short-term-memory--lstms-)
+- [Repositories](#repositories)
+  * [Cryptocurrency](#cryptocurrency)
+- [Resources](#resources)
+  * [Presentations](#presentations)
+  * [Courses](#courses)
+  * [Guides & Further Reading](#guides---further-reading)
+
 # Papers
 
 * [Deep Learning for Limit Order Books](https://arxiv.org/abs/1601.01987) - Justin Sirignano (2016)
