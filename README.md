@@ -10,6 +10,7 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
   * [Social Processing](#social-processing)
 - [Repositories](#repositories)
   * [Cryptocurrency](#cryptocurrency)
+  * [Datasets](#datasets)
 - [Resources](#resources)
   * [Presentations](#presentations)
   * [Courses](#courses)
@@ -56,6 +57,8 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 * [ThirstyScholar/trading-bitcoin-with-reinforcement-learning](https://github.com/ThirstyScholar/trading-bitcoin-with-reinforcement-learning) - Trading Bitcoin with Reinforcement Learning
 * [lefnire/tforce_btc_trader](https://github.com/lefnire/tforce_btc_trader) - A TensorForce-based Bitcoin trading bot (algo-trader). Uses deep reinforcement learning to automatically buy/sell/hold BTC based on price history.
 
+## Datasets
+* [kaggle/Huge Stock Market Dataset](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) - Historical daily prices and volumes of all U.S. stocks and ETFs
 
 # Resources
 ## Presentations
