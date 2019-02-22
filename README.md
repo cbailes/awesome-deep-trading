@@ -39,6 +39,7 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 ## Social Processing
 * [Improving Decision Analytics with Deep Learning: The Case of Financial Disclosures](https://arxiv.org/pdf/1508.01993) - Stefan Feuerriegel, Ralph Fehrer (2015)
 * [Bank distress in the news: Describing events through deep learning](https://arxiv.org/pdf/1603.05670.pdf) - Samuel Rönnqvist, Peter Sarlin (2016)
+* [Stock Prediction Using Twitter - Khan Saad Bin Hasan](https://towardsdatascience.com/stock-prediction-using-twitter-e432b35e14bd) (2019)
 
 # Repositories
 * [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo
