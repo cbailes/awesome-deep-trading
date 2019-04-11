@@ -5,12 +5,12 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 
 # Contents
 - [Papers](#papers)
-  * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks--cnns-)
-  * [Long Short-Term Memory (LSTMs)](#long-short-term-memory--lstms-)
+  * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
+  * [Long Short-Term Memory (LSTMs)](#long-short-term-memory-lstms)
   * [Social Processing](#social-processing)
     + [Sentiment Analysis](#sentiment-analysis)
 - [Repositories](#repositories)
-  * [Cryptocurrency](#cryptocurrency)
+  * [Cryptocurrency](#cryptocurrency) 
   * [Datasets](#datasets)
 - [Resources](#resources)
   * [Presentations](#presentations)
