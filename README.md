@@ -12,12 +12,8 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
   * [Social Processing](#social-processing)
     + [Sentiment Analysis](#sentiment-analysis)
 - [Repositories](#repositories)
-  * [Agents, Bots, Games, & Simulations](#agents-bots-games--simulations)
-  * [Backtesting](#backtesting)
-  * [Cryptocurrency](#cryptocurrency)
+  * [Cryptocurrency](#cryptocurrency) 
   * [Datasets](#datasets)
-  * [Forecasting & Prediction](#forecasting--prediction)
-  * [Q-Learning](#q-learning)
 - [Resources](#resources)
   * [Presentations](#presentations)
   * [Courses](#courses)
@@ -50,20 +46,20 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 * [Stock Prediction Using Twitter](https://towardsdatascience.com/stock-prediction-using-twitter-e432b35e14bd) - Khan Saad Bin Hasan (2019)
 
 # Repositories
+* [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo
+* [Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading) - Experimental time series forecasting
 * [jobvisser03/deep-trading-advisor](https://github.com/jobvisser03/deep-trading-advisor) - Deep Trading Advisor uses MLP, CNN, and RNN+LSTM with Keras, zipline, Dash and Plotly
 * [rosdyana/CNN-Financial-Data](https://github.com/rosdyana/CNN-Financial-Data) - Deep Trading using a Convolutional Neural Network
+* [iamSTone/Deep-trader-CNN-kospi200futures](https://github.com/iamSTone/Deep-trader-CNN-kospi200futures) - Kospi200 index futures Prediction using CNN
 * [ha2emnomer/Deep-Trading](https://github.com/ha2emnomer/Deep-Trading) - Keras-based LSTM RNN 
+* [gujiuxiang/Deep_Trader.pytorch](https://github.com/gujiuxiang/Deep_Trader.pytorch) - This project uses Reinforcement learning on stock market and agent tries to learn trading. PyTorch based.
 * [ZhengyaoJiang/PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio) - PGPortfolio: Policy Gradient Portfolio, the source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem"
 * [yuriak/RLQuant](https://github.com/yuriak/RLQuant) - Applying Reinforcement Learning in Quantitative Trading (Policy Gradient, Direct RL)
-
-## Agents, Bots, Games, & Simulations
-* [gujiuxiang/Deep_Trader.pytorch](https://github.com/gujiuxiang/Deep_Trader.pytorch) - This project uses reinforcement learning on the stock market and its agent tries to learn trading. PyTorch based.
-* [jiewwantan/StarTrader](https://github.com/jiewwantan/StarTrader) - Trains an agent to trade like a human using a deep reinforcement learning algorithm: deep deterministic policy gradient (DDPG) learning algorithm
-* [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations
+* [ucaiado/QLearning_Trading](https://github.com/ucaiado/QLearning_Trading) - Trading Using Q-Learning
+* [laikasinjason/deep-q-learning-trading-system-on-hk-stocks-market](https://github.com/laikasinjason/deep-q-learning-trading-system-on-hk-stocks-market) - Deep Q learning implementation on the Hong Kong Stock Exchange
 * [golsun/deep-RL-trading](https://github.com/golsun/deep-RL-trading) - Codebase for paper "Deep reinforcement learning for time series: playing idealized trading games" by Xiang Gao
-
-## Backtesting
-* [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym) - TradingGym is a toolkit for training and backtesting reinforcement learning algorithms or simple rule-based algorithms. Inspired by OpenAI Gym.
+* [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations
+* [jiewwantan/StarTrader](https://github.com/jiewwantan/StarTrader) - Trains an agent to trade like a human using a deep reinforcement learning algorithm: deep deterministic policy gradient (DDPG) learning algorithm
 
 ## Cryptocurrency
 * [samre12/deep-trading-agent](https://github.com/samre12/deep-trading-agent) - Deep Reinforcement Learning-based trading agent for Bitcoin using DeepSense Network for Q function approximation.
@@ -74,14 +70,6 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 * [kaggle/Huge Stock Market Dataset](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) - Historical daily prices and volumes of all U.S. stocks and ETFs
 * [Alpha Vantage](https://www.alphavantage.co/) - Free APIs in JSON and CSV formats, realtime and historical stock data, FX and cryptocurrency feeds, 50+ technical indicators  
 * [Quandl](https://quandl.com/)
-
-## Forecasting & Prediction
-* [Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading) - Experimental time series forecasting
-* [iamSTone/Deep-trader-CNN-kospi200futures](https://github.com/iamSTone/Deep-trader-CNN-kospi200futures) - Kospi200 index futures Prediction using CNN
-
-## Q-Learning
-* [ucaiado/QLearning_Trading](https://github.com/ucaiado/QLearning_Trading) - Trading Using Q-Learning
-* [laikasinjason/deep-q-learning-trading-system-on-hk-stocks-market](https://github.com/laikasinjason/deep-q-learning-trading-system-on-hk-stocks-market) - Deep Q learning implementation on the Hong Kong Stock Exchange
 
 # Resources
 ## Presentations
