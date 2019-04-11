@@ -3,6 +3,8 @@
 
 List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
+© 2019 Craig Bailes (@cbailes), MIT License
+
 # Contents
 - [Papers](#papers)
   * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
