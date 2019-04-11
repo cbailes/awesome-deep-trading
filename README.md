@@ -4,7 +4,6 @@
 List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
 # Contents
-- [awesome-deep-trading](#awesome-deep-trading)
 - [Papers](#papers)
   * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks--cnns-)
   * [Long Short-Term Memory (LSTMs)](#long-short-term-memory--lstms-)
@@ -16,7 +15,7 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 - [Resources](#resources)
   * [Presentations](#presentations)
   * [Courses](#courses)
-  * [Guides & Further Reading](#guides---further-reading)
+  * [Guides & Further Reading](#guides--further-reading)
 
 # Papers
 
