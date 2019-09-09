@@ -3,17 +3,19 @@
 
 List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
-Patreon: https://www.patreon.com/craigbailes
+Open access: all rights granted for use and re-use of any kind, by anyone, at no cost, under your choice of either the free MIT License or Creative Commons CC-BY International Public License.
 
-© 2019 Craig Bailes (@cbailes), MIT License
+© 2019 Craig Bailes ([@cbailes](https://github.com/cbailes) | [Patreon](https://www.patreon.com/craigbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
 
 # Contents
 - [Papers](#papers)
   * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
   * [Long Short-Term Memory (LSTMs)](#long-short-term-memory-lstms)
+  * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks--gans-)
   * [Social Processing](#social-processing)
     + [Sentiment Analysis](#sentiment-analysis)
 - [Repositories](#repositories)
+  * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks--gans--1)
   * [Cryptocurrency](#cryptocurrency) 
   * [Datasets](#datasets)
 - [Resources](#resources)
@@ -56,6 +58,9 @@ Patreon: https://www.patreon.com/craigbailes
 ## Long Short-Term Memory (LSTMs)
 * [Application of Deep Learning to Algorithmic Trading - Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5241098.pdf) (2017)
 
+## Generative Adversarial Networks (GANs)
+* [Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination](https://deepai.org/publication/generative-adversarial-networks-for-financial-trading-strategies-fine-tuning-and-combination) - Adriano Koshiyama (2019)
+
 ## Social Processing
 ### Sentiment Analysis
 * [Improving Decision Analytics with Deep Learning: The Case of Financial Disclosures](https://arxiv.org/pdf/1508.01993) - Stefan Feuerriegel, Ralph Fehrer (2015)
@@ -78,6 +83,9 @@ Patreon: https://www.patreon.com/craigbailes
 * [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations
 * [jiewwantan/StarTrader](https://github.com/jiewwantan/StarTrader) - Trains an agent to trade like a human using a deep reinforcement learning algorithm: deep deterministic policy gradient (DDPG) learning algorithm
 * [notadamking/RLTrader](https://github.com/notadamking/RLTrader) - A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym
+
+## Generative Adversarial Networks (GANs)
+* [borisbanushev/stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - A notebook for stock price movement prediction using an LSTM generator and CNN discriminator
 
 ## Cryptocurrency
 * [samre12/deep-trading-agent](https://github.com/samre12/deep-trading-agent) - Deep Reinforcement Learning-based trading agent for Bitcoin using DeepSense Network for Q function approximation.
@@ -111,4 +119,5 @@ Patreon: https://www.patreon.com/craigbailes
 * [Creating Bitcoin trading bots don’t lose money](https://towardsdatascience.com/creating-bitcoin-trading-bots-that-dont-lose-money-2e7165fb0b29) - Adam King (2019)
 * [Why Deep Reinforcement Learning Can Help Improve Trading Efficiency](https://medium.com/@viktortachev/why-deep-reinforcement-learning-can-help-improve-trading-efficiency-5af57e8faf9d) - Viktor Tachev (2019)
 * [Optimizing deep learning trading bots using state-of-the-art techniques](https://towardsdatascience.com/using-reinforcement-learning-to-trade-bitcoin-for-massive-profit-b69d0e8f583b) - Adam King (2019)
+* [Using the latest advancements in deep learning to predict stock price movements](https://towardsdatascience.com/aifortrading-2edd6fac689d) - Boris Banushev (2019)
 * [Introduction to Deep Learning Trading in Hedge Funds](https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds) - Neven Pičuljan
