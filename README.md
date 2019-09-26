@@ -63,7 +63,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets](https://www.researchgate.net/publication/324541558_Stock_Market_Prediction_on_High-Frequency_Data_Using_Generative_Adversarial_Nets) - Xingyu Zhou, Zhisong Pan, Guyu Hu, Siqi Tang (2018)
 * [Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination](https://deepai.org/publication/generative-adversarial-networks-for-financial-trading-strategies-fine-tuning-and-combination) - Adriano Koshiyama (2019)
 * [Stock Market Prediction Based on Generative Adversarial Network](https://doi.org/10.1016/j.procs.2019.01.256) - Kang Zhang, Guoqiang Zhong, Junyu Dong, Shengke Wang, Yong Wang (2019)
-* 
 
 ## Social Processing
 ### Sentiment Analysis
