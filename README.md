@@ -59,7 +59,11 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Application of Deep Learning to Algorithmic Trading - Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5241098.pdf) (2017)
 
 ## Generative Adversarial Networks (GANs)
+* [Generating Realistic Stock Market Order Streams](https://openreview.net/pdf?id=rke41hC5Km) - Anonymous Authors (2018)
+* [Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets](https://www.researchgate.net/publication/324541558_Stock_Market_Prediction_on_High-Frequency_Data_Using_Generative_Adversarial_Nets) - Xingyu Zhou, Zhisong Pan, Guyu Hu, Siqi Tang (2018)
 * [Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination](https://deepai.org/publication/generative-adversarial-networks-for-financial-trading-strategies-fine-tuning-and-combination) - Adriano Koshiyama (2019)
+* [Stock Market Prediction Based on Generative Adversarial Network](https://doi.org/10.1016/j.procs.2019.01.256) - Kang Zhang, Guoqiang Zhong, Junyu Dong, Shengke Wang, Yong Wang (2019)
+* 
 
 ## Social Processing
 ### Sentiment Analysis
@@ -86,6 +90,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Generative Adversarial Networks (GANs)
 * [borisbanushev/stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - A notebook for stock price movement prediction using an LSTM generator and CNN discriminator
+* [kah-ve/MarketGAN](https://github.com/kah-ve/MarketGAN) - Implementing a Generative Adversarial Network on the Stock Market
 
 ## Cryptocurrency
 * [samre12/deep-trading-agent](https://github.com/samre12/deep-trading-agent) - Deep Reinforcement Learning-based trading agent for Bitcoin using DeepSense Network for Q function approximation.
