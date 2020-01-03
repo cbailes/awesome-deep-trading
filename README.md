@@ -55,6 +55,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep Hierarchical Strategy Model for Multi-Source Driven Quantitative Investment](https://ieeexplore.ieee.org/abstract/document/8743385) - Chunming Tang, Wenyan Zhu, Xiang Yu (2019)
 
 ## Meta Analyses & Systematic Reviews
+* [Application of machine learning in stock trading: a review](http://dx.doi.org/10.14419/ijet.v7i2.33.15479) - Kok Sheng Tan, Rajasvaran Logeswaran (2018)
 * [Evaluating the Performance of Machine Learning Algorithms in Financial Market Forecasting: A Comprehensive Survey](https://arxiv.org/abs/1906.07786) - Lukas Ryll, Sebastian Seidens (2019)
 * [Reinforcement Learning in Financial Markets](https://www.mdpi.com/2306-5729/4/3/110/pdf) - Terry Lingze Meng, Matloob Khushi (2019)
 * [Financial Time Series Forecasting with Deep Learning: A Systematic Literature Review: 2005-2019](https://arxiv.org/abs/1911.13288) - Omer Berat Sezer, Mehmet Ugur Gudelek, Ahmet Murat Ozbayoglu (2019)
