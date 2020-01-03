@@ -12,12 +12,14 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
   * [Long Short-Term Memory (LSTMs)](#long-short-term-memory-lstms)
   * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
+  * [Reinforcement Learning](#reinforcement-learning)
   * [Social Processing](#social-processing)
     + [Sentiment Analysis](#sentiment-analysis)
 - [Repositories](#repositories)
   * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans-1)
   * [Cryptocurrency](#cryptocurrency) 
   * [Datasets](#datasets)
+    + [Simulation](#simulation)
 - [Resources](#resources)
   * [Presentations](#presentations)
   * [Courses](#courses)
@@ -64,6 +66,12 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination](https://deepai.org/publication/generative-adversarial-networks-for-financial-trading-strategies-fine-tuning-and-combination) - Adriano Koshiyama (2019)
 * [Stock Market Prediction Based on Generative Adversarial Network](https://doi.org/10.1016/j.procs.2019.01.256) - Kang Zhang, Guoqiang Zhong, Junyu Dong, Shengke Wang, Yong Wang (2019)
 
+## Reinforcement Learning
+* [Reinforcement learning in financial markets - a survey](http://hdl.handle.net/10419/183139) - Thomas G. Fischer (2018)
+* [Capturing Financial markets to apply Deep Reinforcement Learning](https://arxiv.org/abs/1907.04373) - Souradeep Chakraborty (2019)
+* [Reinforcement Learning in Financial Markets](https://www.mdpi.com/2306-5729/4/3/110/pdf) - Terry Lingze Meng, Matloob Khushi (2019)
+* [Reinforcement Learning for FX trading](http://stanford.edu/class/msande448/2019/Final_reports/gr2.pdf) - Yuqin Dai, Chris Wang, Iris Wang, Yilun Xu (2019)
+
 ## Social Processing
 ### Sentiment Analysis
 * [Improving Decision Analytics with Deep Learning: The Case of Financial Disclosures](https://arxiv.org/pdf/1508.01993) - Stefan Feuerriegel, Ralph Fehrer (2015)
@@ -100,6 +108,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [kaggle/Huge Stock Market Dataset](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) - Historical daily prices and volumes of all U.S. stocks and ETFs
 * [Alpha Vantage](https://www.alphavantage.co/) - Free APIs in JSON and CSV formats, realtime and historical stock data, FX and cryptocurrency feeds, 50+ technical indicators  
 * [Quandl](https://quandl.com/)
+### Simulation
+* [Deep Hedging: Learning to Simulate Equity Option Markets](https://arxiv.org/abs/1911.01700) - Magnus Wiese, Lianjun Bai, Ben Wood, Hans Buehler (2019)
 
 # Resources
 ## Presentations
@@ -110,7 +120,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Courses
 * [Artificial Intelligence for Trading (ND880) nanodegree at Udacity](https://www.udacity.com/course/ai-for-trading--nd880) (+[GitHub code repo](https://github.com/udacity/artificial-intelligence-for-trading))
-* [Neural Networks in Trading course by Dr. Ernest P. Chan at Quantra](https://quantra.quantinsti.com/course/neural-networks-deep-learning-trading-ernest-chan) 
+* [Neural Networks in Trading course by Dr. Ernest P. Chan at Quantra](https://quantra.quantinsti.com/course/neural-networks-deep-learning-trading-ernest-chan)
+* [Machine Learning and Reinforcement Learning in Finance Specialization by NYU at Coursera](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
 
 ## Meetups
 * [Artificial Intelligence in Finance & Algorithmic Trading on Meetup](https://www.meetup.com/Artificial-Intelligence-in-Finance-Algorithmic-Trading/) (New York City)
