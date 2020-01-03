@@ -9,6 +9,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 # Contents
 - [Papers](#papers)
+  * [Meta Analyses](#meta-analyses)
   * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
   * [Long Short-Term Memory (LSTMs)](#long-short-term-memory-lstms)
   * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
@@ -46,11 +47,17 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Improving financial trading decisions using deep Q-learning: Predicting the number of shares, action strategies, and transfer learning](https://www.sciencedirect.com/science/article/pii/S0957417418306134) - Gyeeun Jeong, Ha Young Kim (2019)
 * [Deep Execution - Value and Policy Based Reinforcement Learning for Trading and Beating Market Benchmarks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3374766) - Kevin Dabérius, Elvin Granat, Patrik Karlsson (2019)
 * [An Empirical Study of Machine Learning Algorithms for Stock Daily Trading Strategy](https://www.hindawi.com/journals/mpe/2019/7816154/ref/) - Dongdong Lv, Shuhan Yuan, Meizi Li, Yang Xiang (2019)
+* [Recipe for Quantitative Trading with Machine Learning](http://dx.doi.org/10.2139/ssrn.3232143) - Daniel Alexandre Bloch (2019)
 * [Exploring Possible Improvements to Momentum Strategies with Deep Learning](http://hdl.handle.net/2105/49940) - Adam Takács, X. Xiao (2019)
 * [Enhancing Time Series Momentum Strategies Using Deep Neural Networks](https://arxiv.org/abs/1904.04912) - Bryan Lim, Stefan Zohren, Stephen Roberts (2019)
 * [Multi-Agent Deep Reinforcement Learning for Liquidation Strategy Analysis](https://arxiv.org/abs/1906.11046) - Wenhang Bao, Xiao-yang Liu (2019)
 * [Deep learning-based feature engineering for stock price movement prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705118305264) - Wen Long, Zhichen Lu, Lingxiao Cui (2019)
 * [Deep Hierarchical Strategy Model for Multi-Source Driven Quantitative Investment](https://ieeexplore.ieee.org/abstract/document/8743385) - Chunming Tang, Wenyan Zhu, Xiang Yu (2019)
+
+## Meta Analyses
+* [Evaluating the Performance of Machine Learning Algorithms in Financial Market Forecasting: A Comprehensive Survey](https://arxiv.org/abs/1906.07786) - Lukas Ryll, Sebastian Seidens (2019)
+* [Reinforcement Learning in Financial Markets](https://www.mdpi.com/2306-5729/4/3/110/pdf) - Terry Lingze Meng, Matloob Khushi (2019)
+* [Financial Time Series Forecasting with Deep Learning: A Systematic Literature Review: 2005-2019](https://arxiv.org/abs/1911.13288) - Omer Berat Sezer, Mehmet Ugur Gudelek, Ahmet Murat Ozbayoglu (2019)
 
 ## Convolutional Neural Networks (CNNs)
 * [A deep learning based stock trading model with 2-D CNN trend detection](https://www.researchgate.net/publication/323131323_A_deep_learning_based_stock_trading_model_with_2-D_CNN_trend_detection) - Ugur Gudelek, S. Arda Boluk, Murat Ozbayoglu, Murat Ozbayoglu (2017)
@@ -74,7 +81,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ## Reinforcement Learning
 * [Reinforcement learning in financial markets - a survey](http://hdl.handle.net/10419/183139) - Thomas G. Fischer (2018)
 * [Capturing Financial markets to apply Deep Reinforcement Learning](https://arxiv.org/abs/1907.04373) - Souradeep Chakraborty (2019)
-* [Reinforcement Learning in Financial Markets](https://www.mdpi.com/2306-5729/4/3/110/pdf) - Terry Lingze Meng, Matloob Khushi (2019)
 * [Reinforcement Learning for FX trading](http://stanford.edu/class/msande448/2019/Final_reports/gr2.pdf) - Yuqin Dai, Chris Wang, Iris Wang, Yilun Xu (2019)
 
 ## Social Processing
