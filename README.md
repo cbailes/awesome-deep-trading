@@ -9,7 +9,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 # Contents
 - [Papers](#papers)
-  * [Meta Analyses](#meta-analyses)
+  * [Meta Analyses & Systematic Reviews](#meta-analyses--systematic-reviews)
   * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
   * [Long Short-Term Memory (LSTMs)](#long-short-term-memory-lstms)
   * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
@@ -54,10 +54,11 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep learning-based feature engineering for stock price movement prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705118305264) - Wen Long, Zhichen Lu, Lingxiao Cui (2019)
 * [Deep Hierarchical Strategy Model for Multi-Source Driven Quantitative Investment](https://ieeexplore.ieee.org/abstract/document/8743385) - Chunming Tang, Wenyan Zhu, Xiang Yu (2019)
 
-## Meta Analyses
+## Meta Analyses & Systematic Reviews
 * [Evaluating the Performance of Machine Learning Algorithms in Financial Market Forecasting: A Comprehensive Survey](https://arxiv.org/abs/1906.07786) - Lukas Ryll, Sebastian Seidens (2019)
 * [Reinforcement Learning in Financial Markets](https://www.mdpi.com/2306-5729/4/3/110/pdf) - Terry Lingze Meng, Matloob Khushi (2019)
 * [Financial Time Series Forecasting with Deep Learning: A Systematic Literature Review: 2005-2019](https://arxiv.org/abs/1911.13288) - Omer Berat Sezer, Mehmet Ugur Gudelek, Ahmet Murat Ozbayoglu (2019)
+* [A systematic review of fundamental and technical analysis of stock market predictions](https://www.researchgate.net/publication/335274959_A_systematic_review_of_fundamental_and_technical_analysis_of_stock_market_predictions) - Isaac kofi Nti, Adebayo Adekoya, Benjamin Asubam Weyori (2019)
 
 ## Convolutional Neural Networks (CNNs)
 * [A deep learning based stock trading model with 2-D CNN trend detection](https://www.researchgate.net/publication/323131323_A_deep_learning_based_stock_trading_model_with_2-D_CNN_trend_detection) - Ugur Gudelek, S. Arda Boluk, Murat Ozbayoglu, Murat Ozbayoglu (2017)
