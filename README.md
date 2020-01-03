@@ -12,6 +12,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   * [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
   * [Long Short-Term Memory (LSTMs)](#long-short-term-memory-lstms)
   * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
+  * [High Frequency](#high-frequency)
   * [Reinforcement Learning](#reinforcement-learning)
   * [Social Processing](#social-processing)
     + [Sentiment Analysis](#sentiment-analysis)
@@ -32,9 +33,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [High-Frequency Trading Strategy Based on Deep Neural Networks](https://link.springer.com/chapter/10.1007%2F978-3-319-42297-8_40) - Andrés Arévalo, Jaime Niño, German Hernández, Javier Sandoval (2016)
 * [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059) - Zhengyao Jiang, Dixing Xu, Jinjun Liang (2017)
 * [Agent Inspired Trading Using Recurrent Reinforcement Learning and LSTM Neural Networks](https://arxiv.org/pdf/1707.07338.pdf) - David W. Lu (2017)
-* [Algorithmic Trading Using Deep Neural Networks on High Frequency Data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) - Andrés Arévalo, Jaime Niño, German Hernandez, Javier Sandoval, Diego León, Arbey Aragón (2017)
 * [Deep Hedging](https://arxiv.org/pdf/1802.03042) - Hans Bühler, Lukas Gonon, Josef Teichmann, Ben Wood (2018)
-* [Deep Neural Networks in High Frequency Trading](https://arxiv.org/pdf/1809.01506) - Prakhar Ganesh, Puneet Rakheja (2018)
 * [Stock Trading Bot Using Deep Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-981-10-8201-6_5) - Akhil Raj Azhikodan, Anvitha G. K. Bhat, Mamatha V. Jadhav (2018)
 * [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1807.02787) - Chien Yi Huang (2018)
 * [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/pdf/1811.07522) - Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid (2018)
@@ -58,13 +57,19 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [DeepLOB: Deep Convolutional Neural Networks for Limit Order Books](https://ieeexplore.ieee.org/abstract/document/8673598) - Zihao Zhang, Stefan Zohren, Stephen Roberts (2019)
 
 ## Long Short-Term Memory (LSTMs)
-* [Application of Deep Learning to Algorithmic Trading - Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5241098.pdf) (2017)
-* [Deep Learning for Stock Market Trading: A Superior Trading Strategy?](https://doi.org/10.14311/NNW.2019.29.011) - D. Fister, J. C. Mun, V. Jagrič,, T. Jagrič, (2019)
+* [Application of Deep Learning to Algorithmic Trading, Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5241098.pdf) - Guanting Chen, Yatong Chen, Takahiro Fushimi (2017)
+* [Deep Learning for Stock Market Trading: A Superior Trading Strategy?](https://doi.org/10.14311/NNW.2019.29.011) - D. Fister, J. C. Mun, V. Jagrič, T. Jagrič, (2019)
 
 ## Generative Adversarial Networks (GANs)
 * [Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets](https://www.researchgate.net/publication/324541558_Stock_Market_Prediction_on_High-Frequency_Data_Using_Generative_Adversarial_Nets) - Xingyu Zhou, Zhisong Pan, Guyu Hu, Siqi Tang (2018)
 * [Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination](https://deepai.org/publication/generative-adversarial-networks-for-financial-trading-strategies-fine-tuning-and-combination) - Adriano Koshiyama (2019)
 * [Stock Market Prediction Based on Generative Adversarial Network](https://doi.org/10.1016/j.procs.2019.01.256) - Kang Zhang, Guoqiang Zhong, Junyu Dong, Shengke Wang, Yong Wang (2019)
+
+## High Frequency
+* [Algorithmic Trading Using Deep Neural Networks on High Frequency Data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) - Andrés Arévalo, Jaime Niño, German Hernandez, Javier Sandoval, Diego León, Arbey Aragón (2017)
+* [Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets](https://doi.org/10.1155/2018/4907423) - Xingyu Zhou, Zhisong Pan, Guyu Hu, Siqi Tang, Cheng Zhao (2018)
+* [Deep Neural Networks in High Frequency Trading](https://arxiv.org/pdf/1809.01506) - Prakhar Ganesh, Puneet Rakheja (2018)
+* [Application of Machine Learning in High Frequency Trading of Stocks](https://www.ijser.org/researchpaper/Application-of-Machine-Learning-in-High-Frequency-Trading-of-Stocks.pdf) - Obi Bertrand Obi (2019)
 
 ## Reinforcement Learning
 * [Reinforcement learning in financial markets - a survey](http://hdl.handle.net/10419/183139) - Thomas G. Fischer (2018)
