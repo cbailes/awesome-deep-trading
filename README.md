@@ -14,12 +14,15 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   * [Long Short-Term Memory (LSTMs)](#long-short-term-memory-lstms)
   * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
   * [High Frequency](#high-frequency)
+  * [Portfolio](#portfolio)
   * [Reinforcement Learning](#reinforcement-learning)
+  * [Cryptocurrency](#cryptocurrency)
   * [Social Processing](#social-processing)
+    + [Behavioral Analysis](#behavioral-analysis)
     + [Sentiment Analysis](#sentiment-analysis)
 - [Repositories](#repositories)
   * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans-1)
-  * [Cryptocurrency](#cryptocurrency) 
+  * [Cryptocurrency](#cryptocurrency-1) 
   * [Datasets](#datasets)
     + [Simulation](#simulation)
 - [Resources](#resources)
@@ -80,6 +83,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep Neural Networks in High Frequency Trading](https://arxiv.org/pdf/1809.01506) - Prakhar Ganesh, Puneet Rakheja (2018)
 * [Application of Machine Learning in High Frequency Trading of Stocks](https://www.ijser.org/researchpaper/Application-of-Machine-Learning-in-High-Frequency-Trading-of-Stocks.pdf) - Obi Bertrand Obi (2019)
 
+## Portfolio
+* [G-Learner and GIRL: Goal Based Wealth Management with Reinforcement Learning](https://arxiv.org/abs/2002.10990) - Matthew Dixon, Igor Halperin (2020)
+
 ## Reinforcement Learning
 * [Reinforcement learning in financial markets - a survey](http://hdl.handle.net/10419/183139) - Thomas G. Fischer (2018)
 * [AlphaStock: A Buying-Winners-and-Selling-Losers Investment Strategy using Interpretable Deep Reinforcement Attention Networks](https://arxiv.org/abs/1908.02646) - Jingyuan Wang, Yang Zhang, Ke Tang, Junjie Wu, Zhang Xiong
@@ -88,8 +94,17 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [An Application of Deep Reinforcement Learning to Algorithmic Trading](https://arxiv.org/abs/2004.06627) - Thibaut Théate, Damien Ernst (2020)
 * [Single asset trading: a recurrent reinforcement learning approach](http://urn.kb.se/resolve?urn=urn:nbn:se:mdh:diva-47505) - Marko Nikolic (2020)
 * [Beat China’s stock market by using Deep reinforcement learning](https://www.researchgate.net/profile/Huang_Gang9/publication/340438304_Beat_China's_stock_market_by_using_Deep_reinforcement_learning/links/5e88e007299bf130797c7a68/Beat-Chinas-stock-market-by-using-Deep-reinforcement-learning.pdf) - Gang Huang, Xiaohua Zhou, Qingyang Song (2020)
+* [An Adaptive Financial Trading System Using Deep Reinforcement Learning With Candlestick Decomposing Features](https://doi.org/10.1109/ACCESS.2020.2982662) - Ding Fengqian, Luo Chao (2020)
+* [Application of Deep Q-Network in Portfolio Management](https://arxiv.org/abs/2003.06365) - Ziming Gao, Yuan Gao, Yi Hu, Zhengyong Jiang, Jionglong Su (2020)
+* [A reinforcement learning model based on reward correction for quantitative stock selection](https://doi.org/10.1088/1757-899X/768/7/072036) - Haibo Chen, Chenyu Zhang, Yunke Li (2020)
+
+## Cryptocurrency
+* [Recommending Cryptocurrency Trading Points with Deep Reinforcement Learning Approach](https://doi.org/10.3390/app10041506) - Otabek Sattarov, Azamjon Muminov, Cheol Won Lee, Hyun Kyu Kang, Ryumduck Oh, Junho Ahn, Hyung Jun Oh, Heung Seok Jeon (2020)
 
 ## Social Processing
+### Behavioral Analysis
+* [Investor behaviour monitoring based on deep learning](https://www.tandfonline.com/doi/full/10.1080/0144929X.2020.1717627?casa_token=heptguQeb3kAAAAA%3AB1D3L4udpW0l3nw0sJHSpZ9tvDjptW3HfDqa_3XrUS-9owFARbHnurpSdtCy54KzR05aTdNTwhbnMA) - Song Wang, Xiaoguang Wang, Fanglin Meng, Rongjun Yang, Yuanjun Zhao (2020)
+
 ### Sentiment Analysis
 * [Improving Decision Analytics with Deep Learning: The Case of Financial Disclosures](https://arxiv.org/pdf/1508.01993) - Stefan Feuerriegel, Ralph Fehrer (2015)
 * [Using Machine Learning to Predict Stock Prices](https://medium.com/analytics-vidhya/using-machine-learning-to-predict-stock-prices-c4d0b23b029a) - Vivek Palaniappan (2018)
