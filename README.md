@@ -82,8 +82,12 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Reinforcement Learning
 * [Reinforcement learning in financial markets - a survey](http://hdl.handle.net/10419/183139) - Thomas G. Fischer (2018)
+* [AlphaStock: A Buying-Winners-and-Selling-Losers Investment Strategy using Interpretable Deep Reinforcement Attention Networks](https://arxiv.org/abs/1908.02646) - Jingyuan Wang, Yang Zhang, Ke Tang, Junjie Wu, Zhang Xiong
 * [Capturing Financial markets to apply Deep Reinforcement Learning](https://arxiv.org/abs/1907.04373) - Souradeep Chakraborty (2019)
 * [Reinforcement Learning for FX trading](http://stanford.edu/class/msande448/2019/Final_reports/gr2.pdf) - Yuqin Dai, Chris Wang, Iris Wang, Yilun Xu (2019)
+* [An Application of Deep Reinforcement Learning to Algorithmic Trading](https://arxiv.org/abs/2004.06627) - Thibaut Théate, Damien Ernst (2020)
+* [Single asset trading: a recurrent reinforcement learning approach](http://urn.kb.se/resolve?urn=urn:nbn:se:mdh:diva-47505) - Marko Nikolic (2020)
+* [Beat China’s stock market by using Deep reinforcement learning](https://www.researchgate.net/profile/Huang_Gang9/publication/340438304_Beat_China's_stock_market_by_using_Deep_reinforcement_learning/links/5e88e007299bf130797c7a68/Beat-Chinas-stock-market-by-using-Deep-reinforcement-learning.pdf) - Gang Huang, Xiaohua Zhou, Qingyang Song (2020)
 
 ## Social Processing
 ### Sentiment Analysis
