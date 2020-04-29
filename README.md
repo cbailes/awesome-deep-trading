@@ -20,7 +20,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   * [Social Processing](#social-processing)
     + [Behavioral Analysis](#behavioral-analysis)
     + [Sentiment Analysis](#sentiment-analysis)
-  * [Data](#data)
 - [Repositories](#repositories)
   * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans-1)
   * [Cryptocurrency](#cryptocurrency-1) 
@@ -78,6 +77,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination](https://deepai.org/publication/generative-adversarial-networks-for-financial-trading-strategies-fine-tuning-and-combination) - Adriano Koshiyama (2019)
 * [Stock Market Prediction Based on Generative Adversarial Network](https://doi.org/10.1016/j.procs.2019.01.256) - Kang Zhang, Guoqiang Zhong, Junyu Dong, Shengke Wang, Yong Wang (2019)
 * [Generative Adversarial Network for Stock Market price Prediction](https://cs230.stanford.edu/projects_fall_2019/reports/26259829.pdf) - Ricardo Alberto Carrillo Romero (2019)
+* [Generative Adversarial Network for Market Hourly Discrimination](https://mpra.ub.uni-muenchen.de/id/eprint/99846) - Luca Grilli, Domenico Santoro (2020)
 
 ## High Frequency
 * [Algorithmic Trading Using Deep Neural Networks on High Frequency Data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) - Andrés Arévalo, Jaime Niño, German Hernandez, Javier Sandoval, Diego León, Arbey Aragón (2017)
@@ -117,9 +117,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Using Machine Learning to Predict Stock Prices](https://medium.com/analytics-vidhya/using-machine-learning-to-predict-stock-prices-c4d0b23b029a) - Vivek Palaniappan (2018)
 * [Stock Prediction Using Twitter](https://towardsdatascience.com/stock-prediction-using-twitter-e432b35e14bd) - Khan Saad Bin Hasan (2019)
 * [Sentiment and Knowledge Based Algorithmic Trading with Deep Reinforcement Learning](https://arxiv.org/abs/2001.09403) - Abhishek Nan, Anandh Perumal, Osmar R. Zaiane (2020)
-
-## Data
-* [Generative Adversarial Network for Market Hourly Discrimination](https://mpra.ub.uni-muenchen.de/id/eprint/99846) - Luca Grilli, Domenico Santoro (2020)
 
 # Repositories
 * [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo
