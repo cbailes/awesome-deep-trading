@@ -108,6 +108,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Social Processing
 ### Behavioral Analysis
+* [Can Deep Learning Predict Risky Retail Investors? A Case Study in Financial Risk Behavior Forecasting](https://www.researchgate.net/publication/329734839_Can_Deep_Learning_Predict_Risky_Retail_Investors_A_Case_Study_in_Financial_Risk_Behavior_Forecasting) - Yaodong Yang, Alisa Kolesnikova, Stefan Lessmann, Tiejun Ma, Ming-Chien Sung, Johnnie E.V. Johnson (2019)
 * [Investor behaviour monitoring based on deep learning](https://www.tandfonline.com/doi/full/10.1080/0144929X.2020.1717627?casa_token=heptguQeb3kAAAAA%3AB1D3L4udpW0l3nw0sJHSpZ9tvDjptW3HfDqa_3XrUS-9owFARbHnurpSdtCy54KzR05aTdNTwhbnMA) - Song Wang, Xiaoguang Wang, Fanglin Meng, Rongjun Yang, Yuanjun Zhao (2020)
 
 ### Sentiment Analysis
