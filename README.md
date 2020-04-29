@@ -20,6 +20,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   * [Social Processing](#social-processing)
     + [Behavioral Analysis](#behavioral-analysis)
     + [Sentiment Analysis](#sentiment-analysis)
+  * [Data](#data)
 - [Repositories](#repositories)
   * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans-1)
   * [Cryptocurrency](#cryptocurrency-1) 
@@ -76,6 +77,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ## Generative Adversarial Networks (GANs)
 * [Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination](https://deepai.org/publication/generative-adversarial-networks-for-financial-trading-strategies-fine-tuning-and-combination) - Adriano Koshiyama (2019)
 * [Stock Market Prediction Based on Generative Adversarial Network](https://doi.org/10.1016/j.procs.2019.01.256) - Kang Zhang, Guoqiang Zhong, Junyu Dong, Shengke Wang, Yong Wang (2019)
+* [Generative Adversarial Network for Stock Market price Prediction](https://cs230.stanford.edu/projects_fall_2019/reports/26259829.pdf) - Ricardo Alberto Carrillo Romero (2019)
 
 ## High Frequency
 * [Algorithmic Trading Using Deep Neural Networks on High Frequency Data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) - Andrés Arévalo, Jaime Niño, German Hernandez, Javier Sandoval, Diego León, Arbey Aragón (2017)
@@ -84,7 +86,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Application of Machine Learning in High Frequency Trading of Stocks](https://www.ijser.org/researchpaper/Application-of-Machine-Learning-in-High-Frequency-Trading-of-Stocks.pdf) - Obi Bertrand Obi (2019)
 
 ## Portfolio
+* [Multi Scenario Financial Planning via Deep Reinforcement Learning AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516480) - Gordon Irlam (2020)
 * [G-Learner and GIRL: Goal Based Wealth Management with Reinforcement Learning](https://arxiv.org/abs/2002.10990) - Matthew Dixon, Igor Halperin (2020)
+* [Reinforcement-Learning based Portfolio Management with Augmented Asset Movement Prediction States](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-YeY.4483.pdf) - Yunan Ye, Hengzhi Pei, Boxin Wang, Pin-Yu Chen, Yada Zhu, Jun Xiao, Bo Li (2020)
 
 ## Reinforcement Learning
 * [Reinforcement learning in financial markets - a survey](http://hdl.handle.net/10419/183139) - Thomas G. Fischer (2018)
@@ -96,6 +100,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Beat China’s stock market by using Deep reinforcement learning](https://www.researchgate.net/profile/Huang_Gang9/publication/340438304_Beat_China's_stock_market_by_using_Deep_reinforcement_learning/links/5e88e007299bf130797c7a68/Beat-Chinas-stock-market-by-using-Deep-reinforcement-learning.pdf) - Gang Huang, Xiaohua Zhou, Qingyang Song (2020)
 * [An Adaptive Financial Trading System Using Deep Reinforcement Learning With Candlestick Decomposing Features](https://doi.org/10.1109/ACCESS.2020.2982662) - Ding Fengqian, Luo Chao (2020)
 * [Application of Deep Q-Network in Portfolio Management](https://arxiv.org/abs/2003.06365) - Ziming Gao, Yuan Gao, Yi Hu, Zhengyong Jiang, Jionglong Su (2020)
+* [Deep Reinforcement Learning Pairs Trading with a Double Deep Q-Network](https://ieeexplore.ieee.org/abstract/document/9031159) - Andrew Brim (2020)
 * [A reinforcement learning model based on reward correction for quantitative stock selection](https://doi.org/10.1088/1757-899X/768/7/072036) - Haibo Chen, Chenyu Zhang, Yunke Li (2020)
 
 ## Cryptocurrency
@@ -107,8 +112,13 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ### Sentiment Analysis
 * [Improving Decision Analytics with Deep Learning: The Case of Financial Disclosures](https://arxiv.org/pdf/1508.01993) - Stefan Feuerriegel, Ralph Fehrer (2015)
+* [Big Data: Deep Learning for financial sentiment analysis](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-017-0111-6) - Sahar Sohangir, Dingding Wang, Anna Pomeranets, Taghi M. Khoshgoftaar (2018)
 * [Using Machine Learning to Predict Stock Prices](https://medium.com/analytics-vidhya/using-machine-learning-to-predict-stock-prices-c4d0b23b029a) - Vivek Palaniappan (2018)
 * [Stock Prediction Using Twitter](https://towardsdatascience.com/stock-prediction-using-twitter-e432b35e14bd) - Khan Saad Bin Hasan (2019)
+* [Sentiment and Knowledge Based Algorithmic Trading with Deep Reinforcement Learning](https://arxiv.org/abs/2001.09403) - Abhishek Nan, Anandh Perumal, Osmar R. Zaiane (2020)
+
+## Data
+* [Generative Adversarial Network for Market Hourly Discrimination](https://mpra.ub.uni-muenchen.de/id/eprint/99846) - Luca Grilli, Domenico Santoro (2020)
 
 # Repositories
 * [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo
