@@ -55,7 +55,10 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Enhancing Time Series Momentum Strategies Using Deep Neural Networks](https://arxiv.org/abs/1904.04912) - Bryan Lim, Stefan Zohren, Stephen Roberts (2019)
 * [Multi-Agent Deep Reinforcement Learning for Liquidation Strategy Analysis](https://arxiv.org/abs/1906.11046) - Wenhang Bao, Xiao-yang Liu (2019)
 * [Deep learning-based feature engineering for stock price movement prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705118305264) - Wen Long, Zhichen Lu, Lingxiao Cui (2019)
+* [Review on Stock Market Forecasting & Analysis](https://www.researchgate.net/publication/340583328_Review_on_Stock_Market_Forecasting_Analysis-LSTM_Long-Short_Term_Memory_Holt's_Seasonal_MethodANN_Artificial_Neural_Network_ARIMA_Auto_Regressive_Integrated_Minimum_Average_PCA_MLP_Multi_Layers_Percep) - Anirban Bal, Debayan Ganguly, Kingshuk Chatterjee (2019)
+* [Neural Networks as a Forecasting Tool in the Context of the Russian Financial Market Digitalization](https://www.researchgate.net/publication/340474330_Neural_Networks_as_a_Forecasting_Tool_in_the_Context_of_the_Russian_Financial_Market_Digitalization) - Valery Aleshin, Oleg Sviridov, Inna Nekrasova, Dmitry Shevchenko (2020)
 * [Deep Hierarchical Strategy Model for Multi-Source Driven Quantitative Investment](https://ieeexplore.ieee.org/abstract/document/8743385) - Chunming Tang, Wenyan Zhu, Xiang Yu (2019)
+* [Finding Efficient Stocks in BSE100: Implementation of Buffet Approach INTRODUCTION](https://www.researchgate.net/publication/340501895_Asian_Journal_of_Management_Finding_Efficient_Stocks_in_BSE100_Implementation_of_Buffet_Approach_INTRODUCTION) - Sherin Varghese, Sandeep Thakur, Medha Dhingra (2020)
 
 ## Meta Analyses & Systematic Reviews
 * [Application of machine learning in stock trading: a review](http://dx.doi.org/10.14419/ijet.v7i2.33.15479) - Kok Sheng Tan, Rajasvaran Logeswaran (2018)
@@ -72,6 +75,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ## Long Short-Term Memory (LSTMs)
 * [Application of Deep Learning to Algorithmic Trading, Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5241098.pdf) - Guanting Chen, Yatong Chen, Takahiro Fushimi (2017)
 * [Deep Learning for Stock Market Trading: A Superior Trading Strategy?](https://doi.org/10.14311/NNW.2019.29.011) - D. Fister, J. C. Mun, V. Jagrič, T. Jagrič, (2019)
+* [Performance Evaluation of Recurrent Neural Networks for Short-Term Investment Decision in Stock Market](https://www.researchgate.net/publication/339751012_Performance_Evaluation_of_Recurrent_Neural_Networks_for_Short-Term_Investment_Decision_in_Stock_Market) - Alexandre P. da Silva, Silas S. L. Pereira, Mário W. L. Moreira, Joel J. P. C. Rodrigues, Ricardo A. L. Rabêlo, Kashif Saleem (2020)
+* [Prediction Of Stock Trend For Swing Trades Using Long Short-Term Memory Neural Network Model](https://www.researchgate.net/publication/340789607_Prediction_Of_Stock_Trend_For_Swing_Trades_Using_Long_Short-Term_Memory_Neural_Network_Model) - Varun Totakura, V. Devasekhar, Madhu Sake (2020)
 
 ## Generative Adversarial Networks (GANs)
 * [Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination](https://deepai.org/publication/generative-adversarial-networks-for-financial-trading-strategies-fine-tuning-and-combination) - Adriano Koshiyama (2019)
