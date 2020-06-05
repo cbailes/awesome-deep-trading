@@ -22,13 +22,14 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     + [Sentiment Analysis](#sentiment-analysis)
 - [Repositories](#repositories)
   * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans-1)
+  * [Guides](#guides)
   * [Cryptocurrency](#cryptocurrency-1) 
   * [Datasets](#datasets)
     + [Simulation](#simulation)
 - [Resources](#resources)
   * [Presentations](#presentations)
   * [Courses](#courses)
-  * [Guides & Further Reading](#guides--further-reading)
+  * [Further Reading](#further-reading)
 
 # Papers
 
@@ -59,6 +60,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Neural Networks as a Forecasting Tool in the Context of the Russian Financial Market Digitalization](https://www.researchgate.net/publication/340474330_Neural_Networks_as_a_Forecasting_Tool_in_the_Context_of_the_Russian_Financial_Market_Digitalization) - Valery Aleshin, Oleg Sviridov, Inna Nekrasova, Dmitry Shevchenko (2020)
 * [Deep Hierarchical Strategy Model for Multi-Source Driven Quantitative Investment](https://ieeexplore.ieee.org/abstract/document/8743385) - Chunming Tang, Wenyan Zhu, Xiang Yu (2019)
 * [Finding Efficient Stocks in BSE100: Implementation of Buffet Approach INTRODUCTION](https://www.researchgate.net/publication/340501895_Asian_Journal_of_Management_Finding_Efficient_Stocks_in_BSE100_Implementation_of_Buffet_Approach_INTRODUCTION) - Sherin Varghese, Sandeep Thakur, Medha Dhingra (2020)
+* [Deep Learning in Asset Pricing](https://arxiv.org/abs/1904.00745) - Luyang Chen, Markus Pelger, Jason Zhu (2020)
 
 ## Meta Analyses & Systematic Reviews
 * [Application of machine learning in stock trading: a review](http://dx.doi.org/10.14419/ijet.v7i2.33.15479) - Kok Sheng Tan, Rajasvaran Logeswaran (2018)
@@ -74,9 +76,12 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Long Short-Term Memory (LSTMs)
 * [Application of Deep Learning to Algorithmic Trading, Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5241098.pdf) - Guanting Chen, Yatong Chen, Takahiro Fushimi (2017)
+* [Stock Prices Prediction using Deep Learning Models](https://arxiv.org/abs/1909.12227) - Jialin Liu, Fei Chao, Yu-Chen Lin, Chih-Min Lin (2019)
 * [Deep Learning for Stock Market Trading: A Superior Trading Strategy?](https://doi.org/10.14311/NNW.2019.29.011) - D. Fister, J. C. Mun, V. Jagrič, T. Jagrič, (2019)
 * [Performance Evaluation of Recurrent Neural Networks for Short-Term Investment Decision in Stock Market](https://www.researchgate.net/publication/339751012_Performance_Evaluation_of_Recurrent_Neural_Networks_for_Short-Term_Investment_Decision_in_Stock_Market) - Alexandre P. da Silva, Silas S. L. Pereira, Mário W. L. Moreira, Joel J. P. C. Rodrigues, Ricardo A. L. Rabêlo, Kashif Saleem (2020)
+* [Research on financial assets transaction prediction model based on LSTM neural network](https://doi.org/10.1007/s00521-020-04992-7) - Xue Yan, Wang Weihan & Miao Chang (2020)
 * [Prediction Of Stock Trend For Swing Trades Using Long Short-Term Memory Neural Network Model](https://www.researchgate.net/publication/340789607_Prediction_Of_Stock_Trend_For_Swing_Trades_Using_Long_Short-Term_Memory_Neural_Network_Model) - Varun Totakura, V. Devasekhar, Madhu Sake (2020)
+* [A novel Deep Learning Framework: Prediction and Analysis of Financial Time Series using CEEMD and LSTM](https://www.sciencedirect.com/science/article/abs/pii/S0957417420304334) - Yong'an Zhang, Binbin Yan, Memon Aasma (2020)
 
 ## Generative Adversarial Networks (GANs)
 * [Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination](https://deepai.org/publication/generative-adversarial-networks-for-financial-trading-strategies-fine-tuning-and-combination) - Adriano Koshiyama (2019)
@@ -107,6 +112,11 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Application of Deep Q-Network in Portfolio Management](https://arxiv.org/abs/2003.06365) - Ziming Gao, Yuan Gao, Yi Hu, Zhengyong Jiang, Jionglong Su (2020)
 * [Deep Reinforcement Learning Pairs Trading with a Double Deep Q-Network](https://ieeexplore.ieee.org/abstract/document/9031159) - Andrew Brim (2020)
 * [A reinforcement learning model based on reward correction for quantitative stock selection](https://doi.org/10.1088/1757-899X/768/7/072036) - Haibo Chen, Chenyu Zhang, Yunke Li (2020)
+
+## Guides
+* [Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning](https://www.youtube.com/watch?v=H6du_pfuznE) - Krish Naik (2020) 
+* [Comparing Arima Model and LSTM RNN Model in Time-Series Forecasting](https://analyticsindiamag.com/comparing-arima-model-and-lstm-rnn-model-in-time-series-forecasting/) - Vaibhav Kumar (2020)
+* [LSTM to predict Dow Jones Industrial Average: A Time Series forecasting model](https://medium.com/analytics-vidhya/lstm-to-predict-dow-jones-industrial-average-time-series-647b0115f28c) - Sarit Maitra (2020)
 
 ## Cryptocurrency
 * [Recommending Cryptocurrency Trading Points with Deep Reinforcement Learning Approach](https://doi.org/10.3390/app10041506) - Otabek Sattarov, Azamjon Muminov, Cheol Won Lee, Hyun Kyu Kang, Ryumduck Oh, Junho Ahn, Hyung Jun Oh, Heung Seok Jeon (2020)
@@ -173,7 +183,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ## Meetups
 * [Artificial Intelligence in Finance & Algorithmic Trading on Meetup](https://www.meetup.com/Artificial-Intelligence-in-Finance-Algorithmic-Trading/) (New York City)
 
-## Guides & Further Reading
+## Further Reading
 * [Neural networks for algorithmic trading. Simple time series forecasting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a) - Alex Rachnog (2016)
 * [Predicting Cryptocurrency Prices With Deep Learning](https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/) - David Sheehan (2017)
 * [Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/) - Denny Britz (2018)
@@ -182,4 +192,5 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Why Deep Reinforcement Learning Can Help Improve Trading Efficiency](https://medium.com/@viktortachev/why-deep-reinforcement-learning-can-help-improve-trading-efficiency-5af57e8faf9d) - Viktor Tachev (2019)
 * [Optimizing deep learning trading bots using state-of-the-art techniques](https://towardsdatascience.com/using-reinforcement-learning-to-trade-bitcoin-for-massive-profit-b69d0e8f583b) - Adam King (2019)
 * [Using the latest advancements in deep learning to predict stock price movements](https://towardsdatascience.com/aifortrading-2edd6fac689d) - Boris Banushev (2019)
+* [RNN and LSTM — The Neural Networks with Memory](https://levelup.gitconnected.com/rnn-and-lstm-the-neural-networks-with-memory-24e4cb152d1b) - Nagesh Singh Chauhan (2020)
 * [Introduction to Deep Learning Trading in Hedge Funds](https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds) - Neven Pičuljan
