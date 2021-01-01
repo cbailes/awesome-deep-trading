@@ -5,7 +5,7 @@ List of code, papers, and resources for AI/deep learning/machine learning/neural
 
 Open access: all rights granted for use and re-use of any kind, by anyone, at no cost, under your choice of either the free MIT License or Creative Commons CC-BY International Public License.
 
-© 2020 Craig Bailes ([@cbailes](https://github.com/cbailes) | [Patreon](https://www.patreon.com/craigbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
+© 2021 Craig Bailes ([@cbailes](https://github.com/cbailes) | [Patreon](https://www.patreon.com/craigbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
 
 # Contents
 - [Papers](#papers)
@@ -16,6 +16,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   * [High Frequency](#high-frequency)
   * [Portfolio](#portfolio)
   * [Reinforcement Learning](#reinforcement-learning)
+  * [Vulnerabilities](#vulnerabilities)
   * [Cryptocurrency](#cryptocurrency)
   * [Social Processing](#social-processing)
     + [Behavioral Analysis](#behavioral-analysis)
@@ -82,6 +83,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Research on financial assets transaction prediction model based on LSTM neural network](https://doi.org/10.1007/s00521-020-04992-7) - Xue Yan, Wang Weihan & Miao Chang (2020)
 * [Prediction Of Stock Trend For Swing Trades Using Long Short-Term Memory Neural Network Model](https://www.researchgate.net/publication/340789607_Prediction_Of_Stock_Trend_For_Swing_Trades_Using_Long_Short-Term_Memory_Neural_Network_Model) - Varun Totakura, V. Devasekhar, Madhu Sake (2020)
 * [A novel Deep Learning Framework: Prediction and Analysis of Financial Time Series using CEEMD and LSTM](https://www.sciencedirect.com/science/article/abs/pii/S0957417420304334) - Yong'an Zhang, Binbin Yan, Memon Aasma (2020)
+* [Deep Stock Predictions](https://arxiv.org/abs/2006.04992) - Akash Doshi, Alexander Issa, Puneet Sachdeva, Sina Rafati, Somnath Rakshit (2020)
 
 ## Generative Adversarial Networks (GANs)
 * [Generative Adversarial Networks for Financial Trading Strategies Fine-Tuning and Combination](https://deepai.org/publication/generative-adversarial-networks-for-financial-trading-strategies-fine-tuning-and-combination) - Adriano Koshiyama (2019)
@@ -112,11 +114,15 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Application of Deep Q-Network in Portfolio Management](https://arxiv.org/abs/2003.06365) - Ziming Gao, Yuan Gao, Yi Hu, Zhengyong Jiang, Jionglong Su (2020)
 * [Deep Reinforcement Learning Pairs Trading with a Double Deep Q-Network](https://ieeexplore.ieee.org/abstract/document/9031159) - Andrew Brim (2020)
 * [A reinforcement learning model based on reward correction for quantitative stock selection](https://doi.org/10.1088/1757-899X/768/7/072036) - Haibo Chen, Chenyu Zhang, Yunke Li (2020)
+* [AAMDRL: Augmented Asset Management with Deep Reinforcement Learning](https://arxiv.org/abs/2010.08497) - Eric Benhamou, David Saltiel, Sandrine Ungari, Abhishek Mukhopadhyay, Jamal Atif (2020)
 
 ## Guides
 * [Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning](https://www.youtube.com/watch?v=H6du_pfuznE) - Krish Naik (2020) 
 * [Comparing Arima Model and LSTM RNN Model in Time-Series Forecasting](https://analyticsindiamag.com/comparing-arima-model-and-lstm-rnn-model-in-time-series-forecasting/) - Vaibhav Kumar (2020)
 * [LSTM to predict Dow Jones Industrial Average: A Time Series forecasting model](https://medium.com/analytics-vidhya/lstm-to-predict-dow-jones-industrial-average-time-series-647b0115f28c) - Sarit Maitra (2020)
+
+## Vulnerabilities
+* [Adversarial Attacks on Deep Algorithmic Trading Policies](https://arxiv.org/abs/2010.11388) - Yaser Faghan, Nancirose Piazza, Vahid Behzadan, Ali Fathi (2020)
 
 ## Cryptocurrency
 * [Recommending Cryptocurrency Trading Points with Deep Reinforcement Learning Approach](https://doi.org/10.3390/app10041506) - Otabek Sattarov, Azamjon Muminov, Cheol Won Lee, Hyun Kyu Kang, Ryumduck Oh, Junho Ahn, Hyung Jun Oh, Heung Seok Jeon (2020)
