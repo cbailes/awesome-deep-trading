@@ -34,6 +34,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 # Papers
 
+* [ML-Quant](https://www.ml-quant.com/) - Quant resource aggregator for ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
 * [Classification-based Financial Markets Prediction using Deep Neural Networks](https://arxiv.org/pdf/1603.08604) - Matthew Dixon, Diego Klabjan, Jin Hoon Bang (2016)
 * [Deep Learning for Limit Order Books](https://arxiv.org/pdf/1601.01987) - Justin Sirignano (2016)
 * [High-Frequency Trading Strategy Based on Deep Neural Networks](https://link.springer.com/chapter/10.1007%2F978-3-319-42297-8_40) - Andrés Arévalo, Jaime Niño, German Hernández, Javier Sandoval (2016)
