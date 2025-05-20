@@ -140,6 +140,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Sentiment and Knowledge Based Algorithmic Trading with Deep Reinforcement Learning](https://arxiv.org/abs/2001.09403) - Abhishek Nan, Anandh Perumal, Osmar R. Zaiane (2020)
 
 # Repositories
+* [squidKid-deluxe/QTradeX](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots
 * [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo
 * [Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading) - Experimental time series forecasting
 * [jobvisser03/deep-trading-advisor](https://github.com/jobvisser03/deep-trading-advisor) - Deep Trading Advisor uses MLP, CNN, and RNN+LSTM with Keras, zipline, Dash and Plotly
