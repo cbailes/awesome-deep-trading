@@ -200,3 +200,4 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Using the latest advancements in deep learning to predict stock price movements](https://towardsdatascience.com/aifortrading-2edd6fac689d) - Boris Banushev (2019)
 * [RNN and LSTM — The Neural Networks with Memory](https://levelup.gitconnected.com/rnn-and-lstm-the-neural-networks-with-memory-24e4cb152d1b) - Nagesh Singh Chauhan (2020)
 * [Introduction to Deep Learning Trading in Hedge Funds](https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds) - Neven Pičuljan
+* [KeepRule](https://keeprule.com) - Free investment principles knowledge base with 500+ rules from Buffett, Munger, Graham and more, organized by investing scenarios.
