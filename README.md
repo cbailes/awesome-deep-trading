@@ -169,6 +169,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [kaggle/Huge Stock Market Dataset](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) - Historical daily prices and volumes of all U.S. stocks and ETFs
 * [Alpha Vantage](https://www.alphavantage.co/) - Free APIs in JSON and CSV formats, realtime and historical stock data, FX and cryptocurrency feeds, 50+ technical indicators  
 * [Quandl](https://quandl.com/)
+* [Congressional Stock Brain](https://congressionalstockbrain.com/) - Free AI-powered signal tool ingesting U.S. STOCK Act congressional trade disclosures — useful dataset for political event-driven trading research.
 
 ### Simulation
 * [Generating Realistic Stock Market Order Streams](https://openreview.net/pdf?id=rke41hC5Km) - Anonymous Authors (2018)
