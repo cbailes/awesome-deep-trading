@@ -169,7 +169,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [kaggle/Huge Stock Market Dataset](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) - Historical daily prices and volumes of all U.S. stocks and ETFs
 * [Alpha Vantage](https://www.alphavantage.co/) - Free APIs in JSON and CSV formats, realtime and historical stock data, FX and cryptocurrency feeds, 50+ technical indicators  
 * [Quandl](https://quandl.com/)
-
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 ### Simulation
 * [Generating Realistic Stock Market Order Streams](https://openreview.net/pdf?id=rke41hC5Km) - Anonymous Authors (2018)
 * [Deep Hedging: Learning to Simulate Equity Option Markets](https://arxiv.org/abs/1911.01700) - Magnus Wiese, Lianjun Bai, Ben Wood, Hans Buehler (2019)
