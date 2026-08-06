@@ -140,6 +140,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Sentiment and Knowledge Based Algorithmic Trading with Deep Reinforcement Learning](https://arxiv.org/abs/2001.09403) - Abhishek Nan, Anandh Perumal, Osmar R. Zaiane (2020)
 
 # Repositories
+* [initial-d/ml-quant-trading](https://github.com/initial-d/ml-quant-trading) - End-to-end PyTorch multi-factor research stack with 213 factors, MLP/Transformer baselines, portfolio optimization, vectorized backtesting, and public-data validation
 * [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo
 * [Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading) - Experimental time series forecasting
 * [jobvisser03/deep-trading-advisor](https://github.com/jobvisser03/deep-trading-advisor) - Deep Trading Advisor uses MLP, CNN, and RNN+LSTM with Keras, zipline, Dash and Plotly
