@@ -28,6 +28,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   * [Datasets](#datasets)
     + [Simulation](#simulation)
 - [Resources](#resources)
+- [SmartQuant](https://smartquanthq.com) - AI quant trading learning hub: 180 pages, 5 languages (ZH/EN/JA/KO/AR), free educational content on AI strategies, backtesting, and risk management.
   * [Presentations](#presentations)
   * [Courses](#courses)
   * [Further Reading](#further-reading)
