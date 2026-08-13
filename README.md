@@ -190,6 +190,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Artificial Intelligence in Finance & Algorithmic Trading on Meetup](https://www.meetup.com/Artificial-Intelligence-in-Finance-Algorithmic-Trading/) (New York City)
 
 ## Further Reading
+- [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow that tracks Solana token prices and sends alerts on threshold crossings.
 * [Neural networks for algorithmic trading. Simple time series forecasting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a) - Alex Rachnog (2016)
 * [Predicting Cryptocurrency Prices With Deep Learning](https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/) - David Sheehan (2017)
 * [Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/) - Denny Britz (2018)
