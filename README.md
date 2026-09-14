@@ -166,6 +166,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [lefnire/tforce_btc_trader](https://github.com/lefnire/tforce_btc_trader) - A TensorForce-based Bitcoin trading bot (algo-trader). Uses deep reinforcement learning to automatically buy/sell/hold BTC based on price history.
 
 ## Datasets
+* [FXMacroData](https://fxmacrodata.com/) - Macroeconomic and FX data API with central bank announcements (policy rates, inflation, GDP, labor), release calendar, COT, commodities, and forex.
 * [kaggle/Huge Stock Market Dataset](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) - Historical daily prices and volumes of all U.S. stocks and ETFs
 * [Alpha Vantage](https://www.alphavantage.co/) - Free APIs in JSON and CSV formats, realtime and historical stock data, FX and cryptocurrency feeds, 50+ technical indicators  
 * [Quandl](https://quandl.com/)
