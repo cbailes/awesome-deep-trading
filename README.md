@@ -200,3 +200,5 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Using the latest advancements in deep learning to predict stock price movements](https://towardsdatascience.com/aifortrading-2edd6fac689d) - Boris Banushev (2019)
 * [RNN and LSTM — The Neural Networks with Memory](https://levelup.gitconnected.com/rnn-and-lstm-the-neural-networks-with-memory-24e4cb152d1b) - Nagesh Singh Chauhan (2020)
 * [Introduction to Deep Learning Trading in Hedge Funds](https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds) - Neven Pičuljan
+
+- [QWK ($QWK) Autonomous EVM MEV Infrastructure & EIP-1153 Smart Contract Escrow](https://github.com/chase-tqg/QWIK-MEV-Core) - Multi-chain EVM atomic execution & EIP-1153 transient-storage smart contract resource escrow (`QWKResourceEscrow.sol`, `0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) backed by $400,000+ in verified enterprise infrastructure commitments (Google Cloud, NVIDIA, Cloudflare) with MCP, A2A v1.0, and x402 interfaces.
